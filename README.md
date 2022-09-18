@@ -16,6 +16,17 @@
 <br/>
 <a href="https://www.google.com"> Go to google 2 <img src="https://f.hellowork.com/blogdumoderateur/2013/10/google-logo.png"/></a>
 
+
+
+<table>
+<tr>
+<td> stage 1 </td> <td> objectif </td>
+<tr>
+<td> stage 2 </td> <td> objectif </td>
+
+</table>
+
+
 </body>
 
 
