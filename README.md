@@ -11,10 +11,10 @@
 <a href="http://www.google.com"> Go to google </a>
 
 
-<br/>
+<br/> <p> this is a break tag </p>
 <img src="photo renard timothé.jpg"/>
 <br/>
-
+<a href="https://www.google.com"> Go to google 2 <img src="https://goo.gl/9wCkXS"/></a>
 
 </body>
 
