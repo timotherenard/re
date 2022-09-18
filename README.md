@@ -11,8 +11,9 @@
 <a href="http://www.google.com"> Go to google </a>
 
 
-
-
+<br/>
+<img src="photo renard timothé.jpg"/>
+<br/>
 
 
 </body>
