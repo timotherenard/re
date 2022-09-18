@@ -18,12 +18,13 @@
 
 
 
-<table>
+<table border="1" style="border:solid;">
 <tr>
 <td> stage 1 </td> <td> objectif </td>
+</tr>
 <tr>
 <td> stage 2 </td> <td> objectif </td>
-
+</tr>
 </table>
 
 
