@@ -6,8 +6,8 @@
 
 <body>
 
-<h1> This is my future site </h1>
-<p> My name is <strong> Timothé </strong> </p>
+<h1 style="color:blue;"> This is my future site </h1>
+<p style="font-size:120%;"> My name is <strong> Timothé </strong> </p>
 <a href="http://www.google.com"> Go to google </a>
 <!-- c est un commentaire -->
 
