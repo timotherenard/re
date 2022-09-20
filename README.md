@@ -2,6 +2,15 @@
 <html>
 <head>
 <title> Blackfox </title>
+
+<script type="text/javascript">
+function addParagraphText ()
+{
+document.getElementById("para").innerHTML= "Thanks for adding text"; // commentaire 
+
+}
+</script>
+
 </head>
 
 <body>
