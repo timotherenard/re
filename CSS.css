@@ -2,10 +2,10 @@
 
 
 .gauche{
-	width:60%;
+	width: 60%;
 	border : 5px outset red;
 	background-color: blue;
-	color:geen;
+	color: green;
 }
 p{
 	color:red;
