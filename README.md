@@ -1,15 +1,12 @@
 
 <html>
+
+
+
 <head>
-<title> Blackfox </title>
 
-<script type="text/javascript">
-function addParagraphText ()
-{
-document.getElementById("para").innerHTML= "Thanks for adding text"; // commentaire 
-}
-</script>
-
+<script type="text/javascript" src="/Documents/GitHub/Java.js"></script>
+<link href="/Documents/GitHub/CSS.css" rel="stylesheet">
 </head>
 
 <body>
