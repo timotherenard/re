@@ -5,8 +5,8 @@
 
 <head>
 
-<script type="text/javascript" src="/Documents/GitHub/Java.js"></script>
-<link href="C:/Users/timor/OneDrive/Documents/GitHub/R/CSS.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="Java.js"></script>
+<link href="CSS.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
