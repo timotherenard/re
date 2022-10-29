@@ -6,7 +6,7 @@
 <head>
 
 <script type="text/javascript" src="/Documents/GitHub/Java.js"></script>
-<link href="C:\Users\timor\OneDrive\Documents\GitHub\R\CSS.css" rel="stylesheet">
+<link href="C:\Users\timor\OneDrive\Documents\GitHub\R\CSS.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
