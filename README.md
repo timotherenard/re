@@ -37,6 +37,10 @@ dans les input_col placeholder/readonly-->
 </tr>
 </table>
 
+<div class="gauche">
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
+</div>
 
 </body>
 
