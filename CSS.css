@@ -2,7 +2,7 @@
 
 
 .gauche{
-	width: 60%;
+	columns: 6em;
 	border : 5px outset red;
 	background-color: blue;
 	color: green;
