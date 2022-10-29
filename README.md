@@ -39,9 +39,9 @@ dans les input_col placeholder/readonly-->
 
 
 
- <div class="one">Section 1</div>
-        <div class="two">Section 2</div>
-        <div class="three">Section 3</div>
+<div class="one">Section 1</div>
+<div class="two">Section 2</div>
+<div class="three">Section 3</div>
 
 </body>
 
