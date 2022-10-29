@@ -2,11 +2,39 @@
 
 
 .gauche{
-	columns: 6em;
+	width: 60%;
 	border : 5px outset red;
 	background-color: blue;
 	color: green;
 }
 p{
 	color:red;
+}
+
+div
+{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    width:30%;
+}
+.one
+{
+    background-color:limegreen;    
+    float: left;  
+}
+.two
+{
+    background-color:orange;
+    float: left;
+}
+.three
+{
+    background-color: hotpink;
+    float: left;
 }
