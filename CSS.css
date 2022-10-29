@@ -2,6 +2,7 @@
 
 
 gauche {
-	width=60%
+	width:60%;
+	border : 5px outset red;
 	background-color: blue;
 }
