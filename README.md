@@ -1,5 +1,5 @@
 
-<!DOCYPE html>
+<!DOCTYPE html>
 <html>
 
 <html class="fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en">
