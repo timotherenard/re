@@ -20,7 +20,7 @@ div
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas: "left-column middle-column right-column";
-  width: 1200px;
+  width: 100%;
   margin: 100px auto;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
@@ -28,12 +28,14 @@ div
 .left-column{
   grid-area: left-column;
   padding: 50px;
-  background-color: #4472C4;
+  background-color: #ffb66a;
   color: white;
 }
 .right-column{
   grid-area: right-column;
+  background-color:#c2e5ff;
 }
 .middle-column{
   grid-area: middle-column;
+  background-color:  #c9c9c9;
 }
