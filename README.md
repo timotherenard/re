@@ -37,11 +37,16 @@ dans les input_col placeholder/readonly-->
 </tr>
 </table>
 
+<div class="container">
+    <div class="left-column">
+	Gauche
+    </div>
+    <div class="right-column">
+    droite
+    </div>
+</div>
 
 
-<div class="one">Section 1</div>
-<div class="two">Section 2</div>
-<div class="three">Section 3</div>
 
 </body>
 
