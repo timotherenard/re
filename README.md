@@ -10,16 +10,16 @@
 </head>
 
 <body>
-
-<input type="radio" name="food" value="salsa" checked> Salsa<!-- utilisez pour cocher des choses (une seul cocher possible
+<!--
+<input type="radio" name="food" value="salsa" checked> Salsa utilisez pour cocher des choses (une seul cocher possible
 alors que les checkbox peuvent etre coché séparément
 input type : number/date/color/ submit 
-dans les input_col placeholder/readonly-->
+dans les input_col placeholder/readonly
 
 <h1 style="color:blue;"> This is my future site </h1>
 <p style="font-size:120%;"> My name is <strong> Timothé </strong> </p>
 <a href="http://www.google.com"> Go to google </a>
-<!-- c est un commentaire -->
+
 
 <br/> <p> this is a break tag </p>
 
@@ -36,7 +36,7 @@ dans les input_col placeholder/readonly-->
 <td> stage 2 </td> <td> objectif </td>
 </tr>
 </table>
-
+-->
 <div class="container">
     <div class="left-column">
 	Gauche
