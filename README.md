@@ -9,6 +9,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 <meta name="description" content="A description of the page">
 
+name: hello world
 <script type="text/javascript" src="Java.js"></script>
 
 <link href="CSS.css" type="text/css" rel="stylesheet">
