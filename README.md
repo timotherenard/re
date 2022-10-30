@@ -4,8 +4,13 @@
 
 
 <head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+<meta name="description" content="A description of the page">
 
 <script type="text/javascript" src="Java.js"></script>
+
 <link href="CSS.css" type="text/css" rel="stylesheet">
 </head>
 
