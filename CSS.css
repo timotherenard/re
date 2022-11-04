@@ -35,3 +35,24 @@ li a:hover:not(.active) {
   color: white;
 }
 
+.cv-container{
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  grid-template-areas: "left-column middle-column right-column";
+  width: 1200px;
+  margin: 100px auto;
+}
+
+.left-column{
+  grid-area: left-column;
+  padding: 50px;
+  background-color: #4472C4;
+  color: white;
+}
+.right-column{
+  grid-area: right-column;
+}
+
+.middle-column{
+	grid-area: middle-column
+}
