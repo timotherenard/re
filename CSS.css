@@ -37,7 +37,7 @@ li a:hover:not(.active) {
 
 .cv-container{
   display: grid;
-  grid-template-rows: 20% 60% 20%;
+  grid-template-columns: 100px auto 30px;
   grid-template-areas: "left-column middle-column right-column";
   width: 1200px;
   margin: 100px auto;
