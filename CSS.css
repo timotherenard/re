@@ -55,4 +55,5 @@ li a:hover:not(.active) {
 
 .middle-column{
 	grid-area: middle-column
+	padding: 5% 5%
 }
