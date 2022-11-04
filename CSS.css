@@ -56,6 +56,6 @@ li a:hover:not(.active) {
 
 .middle-column{
 	grid-area: middle-column ;
-	padding: 5% 5% ;
+	padding: 50px 70px;
 	background-color:#e5ffdb;
 }
