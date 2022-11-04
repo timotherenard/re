@@ -39,8 +39,8 @@ li a:hover:not(.active) {
   display: grid;
   grid-template-columns: 100px auto 30px;
   grid-template-areas: "left-column middle-column right-column";
-  width: 1200px;
-  margin: 100px auto;
+  width: 100%;
+  margin: 0px 0px;
 }
 
 .left-column{
