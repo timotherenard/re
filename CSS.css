@@ -41,6 +41,7 @@ li a:hover:not(.active) {
   grid-template-areas: "left-column middle-column right-column";
   width: 100%;
   margin: 0px 0px;
+  height: 100%;
 }
 
 .left-column{
