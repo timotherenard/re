@@ -55,7 +55,7 @@ li a:hover:not(.active) {
 }
 
 .middle-column{
-	grid-area: middle-column
-	padding: 5% 5%
+	grid-area: middle-column ;
+	padding: 5% 5% ;
 	background-color:#e5ffdb;
 }
