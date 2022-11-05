@@ -31,7 +31,7 @@ li a.active {
 }
 
 li a:hover:not(.active) {
-  background-color: #555;
+  background-color:  #ffb373;
   color: white;
 }
 
@@ -47,7 +47,7 @@ li a:hover:not(.active) {
 .left-column{
   grid-area: left-column;
   padding: 50px;
-  background-color: #4472C4;
+  background-color:  #ffb373;
   color: white;
 }
 .right-column{
