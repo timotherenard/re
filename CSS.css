@@ -14,7 +14,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 20%;
   background-color:#ffb373;
 }
 
@@ -26,7 +26,7 @@ li a {
 }
 
 li a.active {
-  background-color: #a1e9de;
+  background-color:  #7fc0eb ;
   color: white;
 }
 
@@ -59,3 +59,5 @@ li a:hover:not(.active) {
 	padding: 50px 70px;
 	background-color:#e5ffdb;
 }
+
+
