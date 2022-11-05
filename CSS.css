@@ -16,13 +16,15 @@ ul {
   padding: 0;
   width: 100%;
   background-color:#ffb373;
+  text-align:center;
 }
 
 li a {
   display: block;
   color: white;
-  padding: 8px 16px;
+  padding: 0;
   text-decoration: none;
+  
 }
 
 li a.active {
