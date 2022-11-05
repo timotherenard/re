@@ -62,4 +62,9 @@ li a:hover:not(.active) {
 	background-color:#e5ffdb;
 }
 
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
