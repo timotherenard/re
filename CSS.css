@@ -22,9 +22,9 @@ ul {
 li a {
   display: block;
   color: white;
-  padding: 30px 0px;
+  padding: 20px 0px;
   text-decoration: none;
-  font-size: 200%;
+  font-size: 175%;
 }
 
 li a.active {
