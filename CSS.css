@@ -42,6 +42,7 @@ li a:hover:not(.active) {
   background-color:  #ffb373;
   color: white;
   position: fixed;
+  width:20%;
 }
 .right-column{
   grid-area: right-column;
