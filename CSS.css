@@ -4,7 +4,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 15px 0px;
-  width: 100%;
+  width: 20%;
   text-align:center;
   position: fixed;
   background: linear-gradient(to bottom, #000, #0003 70%,#0000);
