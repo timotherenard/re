@@ -17,7 +17,7 @@ li a {
   font-size: 175%;
 }
 
-li a.active {
+li a:active {
   background-color:  #7fc0eb ;
   color: white;
 }
