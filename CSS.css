@@ -66,4 +66,9 @@ li a:hover:not(.active) {
 	margin-left: 10%;
 }
 
+h1 {
+	font-size: 300%;
+	color: #d97f00 ;
+	font-family: cursive;
+}
 
