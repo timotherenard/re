@@ -80,12 +80,14 @@ h2{
 	font-family:Goudy Old Style;
 	font-weight: bold;
 	text-decoration: underline;
+	margin-top:40px;
 }
 h3{
 	font-size: 150%;
 	font-weight: bold;
 	margin-left: 25px;
-	text-decoration: underline
+	text-decoration: underline;
+	margin-top:25px;
 }
 
 p{
@@ -93,6 +95,6 @@ p{
 	margin-left:40px;
 }
 section{
-	margin-top: 40px;
+	margin-top: 80px;
 }
 
