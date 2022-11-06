@@ -81,3 +81,14 @@ h2{
 	font-weight: bold;
 	text-decoration: underline;
 }
+h3{
+	font-size: 150%;
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+p{
+	font-size:90%;
+	margin-left:15px;
+}
+
