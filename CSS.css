@@ -5,9 +5,10 @@ ul {
   margin: 0;
   padding: 15px 0px;
   width: 100%;
-  background-color:#ffb373;
   text-align:center;
   position: fixed;
+  background: linear-gradient(to bottom, #000, #0003 70%,#0000);
+  transition: background .5s;
 }
 
 li a {
@@ -18,7 +19,7 @@ li a {
   font-size: 175%;
 }
 
-li a:active {
+li a .active {
   background-color:  #7fc0eb ;
   color: white;
 }
