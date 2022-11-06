@@ -67,8 +67,15 @@ li a:hover:not(.active) {
 }
 
 h1 {
-	font-size: 300%;
+	font-size: 400%;
 	color:#ff7000  ;
 	font-family: Century Gothic;
+	font-weight: bold;
 }
 
+h2{
+	font-size: 200%;
+	color: #ffca00 ;
+	font-family:Goudy Old Style;
+	font-weight: bold;
+}
