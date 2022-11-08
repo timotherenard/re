@@ -107,12 +107,10 @@ section{
 .skill2{
 	width:30%;
 }
-tr{
-	padding-top:2px;
-}
 
 td{
 	font-size:110%;
+	padding-top:2px;
 }
 .HH4{
 	font-size:140%;
