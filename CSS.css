@@ -103,11 +103,11 @@ section{
 }
 .skill1{
 	width:70%;
-	margin-top:2px;
-	font-size:110%;
 }
 .skill2{
 	width:30%;
+}
+tr{
 	margin-top:2px;
 	font-size:110%;
 }
