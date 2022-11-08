@@ -107,8 +107,11 @@ section{
 .skill2{
 	width:30%;
 }
-td{
+tr{
 	margin-top:2px;
+}
+
+td{
 	font-size:110%;
 }
 .HH4{
