@@ -116,12 +116,19 @@ td{
 	font-size:140%;
 	font-weight:bold;
 }
+.HH5{
+	font-size:115%;
+	font-weight:bold;
+	text-decoration:underline;
+}
 
 a:link.lien{
 	font-weight:bold;
 	color:blue;
+	text-decoration:none;
 }
 a:visited.lien{
 	font-weight:bold;
 	color:#9900ff;
+	text-decoration:none;
 }
