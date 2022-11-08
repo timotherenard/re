@@ -109,7 +109,11 @@ section{
 	font-weight:bold;
 }
 
-.lien{
+a:link{
 	font-weight:bold;
 	color:blue;
+}
+a:visited{
+	font-weight:bold;
+	color:#9900ff;
 }
