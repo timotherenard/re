@@ -67,7 +67,7 @@ li a:hover:not(.active) {
 }
 
 h1 {
-	font-size: 400%;
+	font-size: 450%;
 	color:#ff7000  ;
 	font-family: Century Gothic;
 	font-weight: bold;
@@ -75,7 +75,7 @@ h1 {
 }
 
 h2{
-	font-size: 200%;
+	font-size: 300%;
 	color:  #ffa438  ;
 	font-family:Goudy Old Style;
 	font-weight: bold;
@@ -83,7 +83,7 @@ h2{
 	margin-top:40px;
 }
 h3{
-	font-size: 150%;
+	font-size: 200%;
 	font-weight: bold;
 	margin-left: 25px;
 	text-decoration: underline;
@@ -91,7 +91,7 @@ h3{
 }
 
 p{
-	font-size:90%;
+	font-size:110%;
 	margin-left:40px;
 }
 section{
@@ -105,6 +105,6 @@ section{
 	width:70%;
 }
 .HH4{
-	font-size:110%;
+	font-size:140%;
 	font-weight:bold;
 }
