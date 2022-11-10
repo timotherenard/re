@@ -47,7 +47,6 @@ li a:hover:not(.active) {
 }
 .right-column{
   grid-area: right-column;
-  position: fixed;
 }
 
 .middle-column{
