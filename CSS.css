@@ -47,6 +47,7 @@ li a:hover:not(.active) {
 }
 .right-column{
   grid-area: right-column;
+  background-color: #f3eeb9 ;
 }
 
 .middle-column{
@@ -59,7 +60,6 @@ li a:hover:not(.active) {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 51%;
 }
 
 .reseausociaux {
