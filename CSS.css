@@ -93,7 +93,7 @@ h3{
 p{
 	font-size:110%;
 	margin-left:40px;
-	text-justify:inter-word;
+	text-justify:auto;
 }
 section{
 	margin-top: 80px;
