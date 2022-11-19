@@ -143,8 +143,9 @@ a:visited.lien{
 	margin-bottom : 15px;
 }
 .textimage{
-	font-size: 80%;
+	font-size: 100%;
 	font-family:Gabriola;
 	font-style: italic;
 	margin-top : 1px;
+	margin-left: 40%;
 }
