@@ -147,5 +147,6 @@ a:visited.lien{
 	font-family:Gabriola;
 	font-style: italic;
 	margin-top : 1px;
-	margin-left: 40%;
+	margin-left: auto;
+	margin-right: auto;
 }
