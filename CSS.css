@@ -142,3 +142,8 @@ a:visited.lien{
 .lastimage{
 	margin-bottom : 15px;
 }
+.textimage{
+	font-size: 70%;
+	font-family:Gabriola;
+	font-style: italic;
+}
