@@ -137,7 +137,7 @@ a:visited.lien{
 	color:  #a2a2a2 ;
 }
 .imagegauche{
-	margin-top:10px;
+	margin-top:5px;
 }
 .lastimage{
 	margin-bottom : 15px;
@@ -147,6 +147,8 @@ a:visited.lien{
 	font-family:Gabriola;
 	font-style: italic;
 	margin-top : 1px;
-	margin-bottom: 0px;
 	text-align: center;
+}
+.firstimage{
+	margin-top : 10px;
 }
