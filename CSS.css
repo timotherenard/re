@@ -102,15 +102,10 @@ section{
 .skilltable{
 	margin-left:40px;
 }
-.skill1{
-	width:70%;
+.skill{
+	width:200px;
 }
-.skill2{
-	width:30%;
-}
-.skill3{
-	width:20%;
-}
+
 
 td{
 	font-size:110%;
