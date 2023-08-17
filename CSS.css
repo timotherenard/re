@@ -28,32 +28,51 @@ li a:hover:not(.active) {
 }
 
 .container{
-  display: grid;
-  grid-template-columns: 20% 60% 20%;
-  grid-template-areas: "left-column middle-column right-column";
   width: 100%;
   margin: 0px 0px;
   height: 100%;
 }
 
-.left-column{
-  grid-area: left-column;
-  padding: 0;
-  background-color:  #ffb373;
-  color: white;
-  position: fixed;
-  width:20%;
-  height: 100%;
+
+
+
+.navmenu-hidden{
+	display:none;
+
+
 }
+
+ .navmenu-visible{
+	display:block;
+	z-index:99;
+	position:fixed;
+	width:70%;
+	height:100%;
+	padding: 0;
+	background-color:  #ffb373;
+	color: white;
+	position: fixed;
+}
+
+
+#burger-menu{
+	width:15%;
+	
+	position:fixed;
+	top:5px;
+	right:5px;
+}
+
+
 .right-column{
-  grid-area: right-column;
   background-color: #f3eeb9 ;
+  display:none;
 }
 
 .middle-column{
-	grid-area: middle-column ;
 	padding: 50px 70px;
 	background-color:#e5ffdb;
+	z-index=1;
 }
 
 .center {
@@ -148,4 +167,46 @@ a:visited.lien{
 }
 .firstimage{
 	margin-top : 20px;
+}
+
+
+@media screen and (min-width:800px){
+.container{
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  grid-template-areas: "left-column middle-column right-column";
+  width: 100%;
+  margin: 0px 0px;
+  height: 100%;
+}
+
+.left-column{
+	display:block;
+  grid-area: left-column;
+  padding: 0;
+  background-color:  #ffb373;
+  color: white;
+  position: fixed;
+  width:20%;
+  height: 100%;
+}
+.right-column{
+	display:block;
+  grid-area: right-column;
+  background-color: #f3eeb9 ;
+}
+
+.middle-column{
+	display:block;
+	grid-area: middle-column ;
+	padding: 50px 70px;
+	background-color:#e5ffdb;
+}
+	
+	#burger-menu{
+		display:none;
+	}
+	
+	
+	
 }
