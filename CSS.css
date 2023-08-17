@@ -70,7 +70,7 @@ li a:hover:not(.active) {
 }
 
 .middle-column{
-	padding: 50px 70px;
+	padding: 5%;
 	background-color:#e5ffdb;
 	z-index=1;
 }
@@ -119,12 +119,14 @@ section{
 }
 
 .skilltable{
-	margin-left:40px;
+	margin-left:40px;;
 }
 .skill{
-	width:200px;
+	width:30%;
 }
-
+.skill-level{
+	padding-left:2vw;
+}
 
 td{
 	font-size:110%;
@@ -207,6 +209,8 @@ a:visited.lien{
 		display:none;
 	}
 	
-	
+	.skill{
+	width:200px;
+}
 	
 }
