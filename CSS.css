@@ -1,6 +1,16 @@
 @charset "UTF-8";
 
-ul {
+.stabhead{
+	text-decoration:underline;
+	font-size:110%;
+	font-weight:bold;
+}
+	
+.species{
+	font-style:italic;
+}
+
+.respmenu {
   list-style-type: none;
   margin: 0;
   padding: 15px 0px;
@@ -8,6 +18,13 @@ ul {
   text-align:center;
   background: #ffb373;
 }
+
+
+.listmv{
+	list-style-type: square;
+	
+}
+
 
 li a {
   display: block;
@@ -34,7 +51,9 @@ li a:hover:not(.active) {
 }
 
 
-
+.logoresoc{
+	width:25px;
+}
 
 .navmenu-hidden{
 	display:none;
@@ -104,14 +123,13 @@ h2{
 h3{
 	font-size: 200%;
 	font-weight: bold;
-	margin-left: 25px;
 	text-decoration: underline;
 	margin-top:25px;
 }
 
 p{
 	font-size:110%;
-	margin-left:40px;
+
 	text-align: justify;
 }
 section{
@@ -172,6 +190,16 @@ a:visited.lien{
 }
 
 
+
+.lvisible{
+	display:none;
+}
+
+.moocuniversity{
+	font-style:italic;
+	font-decoration:underline;
+}
+
 @media screen and (min-width:800px){
 .container{
   display: grid;
@@ -209,8 +237,31 @@ a:visited.lien{
 		display:none;
 	}
 	
+	
+	.svisible{
+		display:none;
+	}
+	
+	.lvisible{
+		display:block;
+	}
+	
 	.skill{
 	width:200px;
 }
+	p{
+		margin-left:40px;
+	}
+	h3{
+		margin-left: 25px;
+	}
+	h2{
+		
+	}
+	.listmv{
+		
+		margin-left:5%;
+	}
+	
 	
 }
