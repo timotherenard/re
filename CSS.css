@@ -197,11 +197,11 @@ a:visited.lien{
 
 .moocuniversity{
 	font-style:italic;
-	font-decoration:underline;
+	text-decoration:underline;
 }
 
 .date{
-	font-decoration: none;
+	text-decoration: none;
 	font-style:italic;
 }
 
