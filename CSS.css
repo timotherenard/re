@@ -123,7 +123,6 @@ h2{
 h3{
 	font-size: 200%;
 	font-weight: bold;
-	text-decoration: underline;
 	margin-top:25px;
 }
 
@@ -200,11 +199,10 @@ a:visited.lien{
 	text-decoration:underline;
 }
 
-.date{
-	text-decoration: none;
-	font-style:italic;
-}
 
+h3 .h3title{
+	text-decoration: underline;
+}
 
 @media screen and (min-width:800px){
 .container{
